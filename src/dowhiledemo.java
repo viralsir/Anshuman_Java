@@ -1,3 +1,5 @@
+import UnitTest.Product;
+
 /*
     do while :-
         initialization of variable
@@ -10,6 +12,8 @@
 public class dowhiledemo
 {
     public static void main(String[] args) {
+        Product pr=new Product();
+
         int i = 1;
         do
         {

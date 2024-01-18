@@ -7,8 +7,10 @@ import java.util.Scanner;
       try
       catch
       finally  :-
-      throw
-      throws
+      throw   : UserDefine Exception
+      throws  : ignore the exception : compile time exception
+
+      io
 
 
         final : keyword  : constant
